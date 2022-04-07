@@ -103,6 +103,13 @@ If you need to see how you voted, change how you voted, or have any questions
 
 ## C++23 Polls ## {#polls-cpp23}
 
+Polls phrased as "Return X" indicate that the paper was sent to Library Working
+  Group for C++23 in the past, and Libary Working Group returned it to us with
+  questions.
+
+Polls phrased as "Send X" indicate that the paper has not previously been sent
+  to Library Working Group for C++23.
+
 ### [[P1885R10]] Naming Text Encodings to Demystify Them
 
 Return
