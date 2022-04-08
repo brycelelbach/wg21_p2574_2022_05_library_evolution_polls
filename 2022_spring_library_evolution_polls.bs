@@ -131,6 +131,13 @@ Return
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
+### [[P1169R3]] Static `operator()`
+
+Send
+  [[P1169R3]] Static `operator()`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
 ### [[P2553R1]] Make `mdspan` `size_type` Controllable
 
 Send
