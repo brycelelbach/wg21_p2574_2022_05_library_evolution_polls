@@ -123,13 +123,6 @@ Return
   [[P0792R8]] `function_ref`
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
-
-### [[P1083R5]] `resource_adaptor`
-
-Return
-  [[P1083R5]] `resource_adaptor`
-  to Library Working Group for C++23,
-  classified as an addition ([[P0592R4]] bucket 3 item).
   
 ### [[P1223R3]] `find_last`
 
@@ -216,6 +209,13 @@ Send
   [[P2300R4]] `std::execution`
   to Library Working Group for C++26,
   classified as a focus ([[P0592R4]] bucket 1 item).
+
+### [[P1083R5]] `resource_adaptor`
+
+Return
+  [[P1083R5]] `resource_adaptor`
+  to Library Working Group for C++26,
+  classified as an addition ([[P0592R4]] bucket 3 item).
 
 ### [[P1202R4]] Asymmetric Fences
 
