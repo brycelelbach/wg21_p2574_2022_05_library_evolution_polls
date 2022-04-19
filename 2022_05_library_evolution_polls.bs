@@ -1,5 +1,5 @@
 <pre class='metadata'>
-Title: 2022 Spring Library Evolution Polls
+Title: 2022-05 Library Evolution Polls
 Shortname: D2574
 Revision: 0
 Status: D
@@ -7,8 +7,8 @@ Group: WG21
 Audience: WG21
 Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
 URL: https://wg21.link/P2574
-!Source: <a href="https://github.com/brycelelbach/wg21_p2574_2022_spring_library_evolution_polls/blob/main/2022_spring_library_evolution_polls.bs">GitHub</a>
-Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2574_2022_spring_library_evolution_polls/issues
+!Source: <a href="https://github.com/brycelelbach/wg21_p2574_2022_05_library_evolution_polls/blob/main/2022_05_library_evolution_polls.bs">GitHub</a>
+Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2574_2022_05_library_evolution_polls/issues
 Metadata Order: Editor, Source, Issue Tracking, Project, Audience
 Markup Shorthands: markdown yes
 Toggle Diffs: no
@@ -20,7 +20,7 @@ Default Biblio Display: direct
 # Introduction # {#introduction}
 
 This paper contains the decision polls that the C++ Library Evolution group
-  will take in Spring of 2022.
+  will take in 2022-05.
 
 # Voting # {#voting}
 
