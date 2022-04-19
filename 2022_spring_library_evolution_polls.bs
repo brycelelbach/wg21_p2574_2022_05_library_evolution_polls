@@ -123,7 +123,7 @@ Return
   [[P0792R8]] `function_ref`
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
-  
+
 ### [[P1223R3]] `find_last`
 
 Return
@@ -203,7 +203,7 @@ Send
 
 ## C++26 and Technical Specification Polls ## {#polls-cpp26-and-ts}
 
-### [[P2300R4]] `std::execution`
+### [[P2300R5]] `std::execution`
 
 Send
   [[P2300R4]] `std::execution`
@@ -224,3 +224,23 @@ Send
   to Library Working Group for the Concurrency TS v2,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
+
+
+<pre class=biblio>
+{
+  "P2300R5": {
+    "title": "std::execution",
+    "authors": [
+      "Michał Dominiak",
+      "Lewis Baker",
+      "Lee Howes",
+      "Kirk Shoop",
+      "Michael Garland",
+      "Eric Niebler",
+      "Bryce Adelstein Lelbach"
+    ],
+    "href": "https://wg21.link/P2300R5",
+    "date": "2022-04-20"
+  }
+}
+</pre>
