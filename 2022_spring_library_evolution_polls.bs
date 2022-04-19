@@ -130,6 +130,13 @@ Return
   [[P1083R5]] `resource_adaptor`
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
+  
+### [[P1223R3]] `find_last`
+
+Return
+  [[P1223R3]] `find_last`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
 
 ### [[P1169R3]] Static `operator()`
 
