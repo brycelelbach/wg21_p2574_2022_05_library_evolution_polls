@@ -206,7 +206,7 @@ Send
 ### [[P2300R5]] `std::execution`
 
 Send
-  [[P2300R4]] `std::execution`
+  [[P2300R5]] `std::execution`
   to Library Working Group for C++26,
   classified as a focus ([[P0592R4]] bucket 1 item).
 
